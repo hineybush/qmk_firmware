@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID 0x04D8
 #define PRODUCT_ID 0xE7DB
 #define DEVICE_VER 0x0001
-#define MANUFACTURER hineybush keyboards
+#define MANUFACTURER hiney
 #define PRODUCT h60-wideboi
 
 /* key matrix size */
