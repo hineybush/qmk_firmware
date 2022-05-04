@@ -44,14 +44,19 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x3369",
-        "vid": "0x0A75"
+        "vid": "0x3369",
+        "pid": "0x0A75"
     },
     "BACKLIGHT_PIN": "B7",
     "BACKLIGHT_BREATHING": true,
     "RGB_DI_PIN": "B3",
     "RGBLED_NUM": 10,
-    "RGBLIGHT_ANIMATIONS": "ALL",
+    "RGBLIGHT_EFFECT_ALTERNATING": true,
+    "RGBLIGHT_EFFECT_BREATHING": true,
+    "RGBLIGHT_EFFECT_CHRISTMAS": true,
+    "RGBLIGHT_EFFECT_KNIGHT": true,
+    "RGBLIGHT_EFFECT_RAINBOW_MOOD": true,
+    "RGBLIGHT_EFFECT_RAINBOW_SWIRL": true,
     "RGBLIGHT_SLEEP": true,
     "layouts": {
         "LAYOUT_all": {
