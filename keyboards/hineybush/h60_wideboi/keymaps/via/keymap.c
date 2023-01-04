@@ -13,7 +13,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 
 <<<<<<< HEAD
-    [_BASE] = LAYOUT(
+    [_BASE] = LAYOUT_all(
 =======
     [_BASE] = LAYOUT_all(
 >>>>>>> b9001bdffe4752e267943a06b1a82f302bf3629e
@@ -24,7 +24,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_F5, KC_LCTL, KC_LGUI, KC_LALT,                   KC_SPC,                             KC_RALT, KC_RGUI,  KC_RCTL,                         KC_F10),
 
 <<<<<<< HEAD
-    [_FN] = LAYOUT(
+    [_FN] = LAYOUT_all(
 =======
     [_FN] = LAYOUT_all(
 >>>>>>> b9001bdffe4752e267943a06b1a82f302bf3629e
