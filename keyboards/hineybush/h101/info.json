@@ -17,6 +17,12 @@
         "mousekey": true,
         "nkro": true
     },
+    "indicators": {
+        "num_lock": "B14",
+        "caps_lock": "A13",
+        "scroll_lock": "B8",
+        "on_state": 0
+      },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
         "cols": ["B0", "B1", "B2", "B10", "B11", "B12", "A8", "A9", "A10", "A15", "B3", "B4", "B5", "B6", "B7", "B9", "A3", "F0","F1","A7","A5","A4"],
